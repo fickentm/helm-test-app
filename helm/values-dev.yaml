@@ -1,0 +1,6 @@
+# Values that are used to configure the k8s ingress
+ingress:
+  #List of hosts that will be created for this ingress
+  hosts:
+    #Single host name that will be created for this ingress
+    - host: dev.myhost.com
